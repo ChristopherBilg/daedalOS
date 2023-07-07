@@ -118,7 +118,7 @@
     "monaco-editor": "^0.34.1",
     "pdfjs-dist": "^3.1.81",
     "postcss-syntax": "^0.36.2",
-    "stylelint": "^14.15.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-recommended": "^9.0.0",
     "stylelint-config-sass-guidelines": "^9.0.1",
